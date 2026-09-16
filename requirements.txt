@@ -1,0 +1,5 @@
+streamlit>=1.61,<2
+Pillow>=11,<12
+requests>=2.32,<3
+pytest>=8,<9
+
